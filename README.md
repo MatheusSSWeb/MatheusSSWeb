@@ -2,7 +2,7 @@
   h1 {
     font-weight: bold;
   }
- </style>
+</style>
  
 
 <h1>Salve! Bem vindo(a) ao meu perfil!</h1>
