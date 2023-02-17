@@ -1,6 +1,6 @@
 <h1>Salve! Bem vindo(a) ao meu perfil!</h1>
 <h2>Seguem abaixo algumas das minhas informações 🔥</h2>
-<ul>
+<ul style={ display: inline; }>
   <li>17y</li>
   <li>HTML5</li>
   <li>CSS3</li>
