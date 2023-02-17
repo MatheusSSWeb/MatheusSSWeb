@@ -1,7 +1,7 @@
 <h1>Salve! Bem vindo(a) ao meu perfil!</h1>
 <h2>Seguem abaixo algumas das minhas informações 🔥</h2>
 
-<img src="https://img.icons8.com/color/48/null/html-5--v1.png" alt="Símbolo do HTML5">  <img src="https://img.icons8.com/color/48/null/css3.png" alt="Símbolo do CSS3">
+<img src="https://img.icons8.com/color/48/null/html-5--v1.png" alt="Símbolo do HTML5">  <img src="https://img.icons8.com/color/48/null/css3.png" alt="Símbolo do CSS3">  <img src="https://img.icons8.com/color/48/null/figma--v1.png" alt="Logotipo do Figma">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusSSWeb&count_private=true&show_icons=true&theme=dark&bg_color=#000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSSWeb&layout=compact&theme=dark)](https://github.com/MatheusSSWeb/github-readme-stats)
