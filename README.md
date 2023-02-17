@@ -1,10 +1,3 @@
-<style rel="stylesheet">
-  h1 {
-    font-weight: bold;
-  }
-</style>
- 
-
 <h1>Salve! Bem vindo(a) ao meu perfil!</h1>
 <p>Seguem abaixo algumas das minhas informações 🔥</p>
 
