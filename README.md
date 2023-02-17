@@ -1,12 +1,9 @@
 <h1>Salve! Bem vindo(a) ao meu perfil!</h1>
 <h2>Seguem abaixo algumas das minhas informações 🔥</h2>
-<ul style={ display: inline; }>
-  <li>17y</li>
-  <li>HTML5</li>
-  <li>CSS3</li>
-  <li>UI/UX Design</li>
-  <li>Figma</li>
-</ul>
+
+<img src="https://user-images.githubusercontent.com/125624056/219713765-8ff9c378-2407-4a4b-9dfe-17f7edd02cdf.png
+" alt="Símbolo do HTML5">
+<h3>HTML5</h3>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusSSWeb&count_private=true&show_icons=true&theme=dark&bg_color=#000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSSWeb&layout=compact&theme=dark)](https://github.com/MatheusSSWeb/github-readme-stats)
