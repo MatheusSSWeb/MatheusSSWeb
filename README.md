@@ -1,5 +1,5 @@
 <h1>Salve! Bem vindo(a) ao meu perfil!</h1>
-<h2>Seguem abaixo algumas das minhas informações 🔥</h2>
+<h2>Algumas das minhas habilidades 🔥</h2>
 
 <img src="https://img.icons8.com/color/48/null/html-5--v1.png" alt="Símbolo do HTML5">  <img src="https://img.icons8.com/color/48/null/css3.png" alt="Símbolo do CSS3">  <img src="https://img.icons8.com/color/48/null/figma--v1.png" alt="Logotipo do Figma">
 
