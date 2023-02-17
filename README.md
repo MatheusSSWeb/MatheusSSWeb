@@ -1,5 +1,12 @@
 <h1>Salve! Bem vindo(a) ao meu perfil!</h1>
-<p>Seguem abaixo algumas das minhas informações 🔥</p>
+<h2>Seguem abaixo algumas das minhas informações 🔥</h2>
+<ul>
+  <li>17y</li>
+  <li>HTML5</li>
+  <li>CSS3</li>
+  <li>UI/UX Design</li>
+  <li>Figma</li>
+</ul>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusSSWeb&count_private=true&show_icons=true&theme=dark&bg_color=#000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSSWeb&layout=compact&theme=dark)](https://github.com/MatheusSSWeb/github-readme-stats)
