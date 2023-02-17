@@ -1,6 +1,6 @@
 <style rel="stylesheet">
   h1 {
-    font-wheight: bold;
+    font-weight: bold;
   }
  </style>
  
